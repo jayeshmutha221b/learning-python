@@ -1,0 +1,3 @@
+1) what is **if __name__ == '__main__':***
+2) functioning of statistics._counts(list1)
+3) why python is dynamic typed programing language?
